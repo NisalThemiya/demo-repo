@@ -1,3 +1,4 @@
 # DEMO
 
-This id a demo text message
+This is a demo text message
+This is the updated message
